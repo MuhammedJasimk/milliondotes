@@ -1,0 +1,142 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-btn{
+    background: linear-gradient(90deg, #00B0C6 -13.32%, #356AF3 105.84%);
+    width: 156px;
+    height: 49px;
+    left: 1148px;
+    top: 49px;
+    border-radius: 13px;
+}
+.main-bg{
+    background-color: #F8FBFB;
+}
+.start-btn{
+    width: 200px;
+height: 55px;
+left: 135px;
+top: 582px;
+
+background: linear-gradient(90deg, #FFDB00 -13.32%, #FF8900 105.84%);
+border-radius: 18px;
+}
+.img-banner{
+    width: 472px;
+    height: 474px;
+}
+.vector-position{
+    top: 200px;
+}
+.radius-border{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+.radius-border:hover{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.elipse{
+    top: 125px;
+    left: 468px;
+    right: 145px;
+}
+.membership-bg{
+    background: linear-gradient(90deg, #00B0C6 -13.32%, #356AF3 105.84%);
+
+}
+.card-radius{
+    border-radius: 15px;
+}
+.pl-ul{
+padding-left: 55px;
+}
+.year-bg{
+    background: linear-gradient(90deg, #FFDB00 -13.32%, #FF8900 105.84%);
+    border-radius: 0px 0px 15px 15px  ;
+}
+.award-margin{
+    margin-top: -50px;
+}
+.service-div{
+    text-align: end;
+    width: 60%;
+    margin: auto;
+}
+.round-bg{
+    padding: 8px;
+    height: 45px;
+    width: 45px;
+    border-radius: 90px;
+    background-color: #7A50F9;
+}
+.round-bg2{
+    padding: 8px;
+    height: 45px;
+    width: 45px;
+    border-radius: 90px;
+    background-color: #05CD99;
+}
+.round-bg3{
+    padding: 8px;
+    height: 45px;
+    width: 45px;
+    border-radius: 90px;
+    background-color:  #00B0C6;
+}
+.round-bg4{
+    padding: 8px;
+    height: 45px;
+    width: 45px;
+    border-radius: 90px;
+    background-color:  #FF8900;
+}
+
+.test-bg{
+    width: fit-content;
+    background: #E3F8FA;
+    padding: 7px 15px;
+    border-radius: 17px;
+    color:  #00B0C6;
+}
+.faq-btn{
+    border: none;
+    padding: 7px 20px;
+    background: linear-gradient(90deg, #00B0C6 -13.32%, #356AF3 105.84%);
+    color: white;
+    border-radius: 13px;
+}
+
+
+.man-width{
+    width: 9%;
+}
+
+.section-bg{
+    background: linear-gradient(111.16deg, #FC573B 43.12%, #FF8900 93.26%);
+    height: 500px;
+    margin-top: 100px !important;
+}
+.section-radius{
+    border-radius: 48px;
+}
+.line-height{
+    line-height: 30px;
+}
+.stand-img{
+    width: 75%;
+    margin-top: -148px;
+}
+
+@media only screen and (max-width: 600px) {
+    .res-align{
+        text-align: center !important;
+    }
+    .res-img{
+        width: 349px;
+    height: 374px;
+    }
+    .res-pt{
+        padding-top: 35px;
+    }
+}
